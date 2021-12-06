@@ -1,9 +1,5 @@
-### Hi there 👋
+### Hello World, I am Daniela! 👋
 
-
-<div id="demobox">
-Hello World, I am Daniela!
-</div>
 
 
 <!--
