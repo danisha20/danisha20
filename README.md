@@ -1,9 +1,9 @@
 ### Hello World, I am Daniela! 👋
 
-I am passionate about Data and am Learning Every Day.  
+I am passionate about Data and Machine Learning and I am Learning Every Day.  
 
 - 📫 You can reach me at: https://www.linkedin.com/in/daniela-g-791b8960/ ...
-Feel free to send me a message. I am always happy to talk about data and machine learning. Let's see how we can collaborate in a project.
+Feel free to send me a message.  Let's see how we can collaborate in a project.
 
 My hobbies: 🎾 , 📚,  🥾
 
