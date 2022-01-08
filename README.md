@@ -1,6 +1,14 @@
 ### Hello World, I am Daniela! 👋
 
+I am passionate about Data and Learning Every Day.  
 
+- 📫 You can reach me at: https://www.linkedin.com/in/daniela-g-791b8960/ ...
+Feel free to send me a message. I am always happy to talk about data and machine learning. Let's see how we can collaborate in a project.
+
+My hobbies:
+- 🎾
+- 📚
+- 🥾
 
 <!--
 **danisha20/danisha20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
